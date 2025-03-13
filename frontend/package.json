@@ -10,7 +10,9 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@tailwindcss/postcss": "^4.0.13",
     "@tailwindcss/vite": "^4.0.13",
+    "axios": "^1.8.3",
     "proyecto-ecommerce": "file:",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
